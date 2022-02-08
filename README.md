@@ -1,4 +1,11 @@
-### Hi there 👋
+I am a computer nerd (read software engineer) way too much interested 
+in Emacs, RPM packaging, and Free software (as in freedom) in general.
+
+If you like my work, feel free to buy me a coffee.
+
+
+<a href="https://www.buymeacoffee.com/frostyx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
 <!--
 **FrostyX/FrostyX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
