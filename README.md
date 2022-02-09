@@ -1,5 +1,5 @@
 I am a computer nerd (read software engineer) way too much interested 
-in Emacs, RPM packaging, and Free software (as in freedom) in general.
+in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 
 If you like my work, feel free to buy me a coffee.
 
