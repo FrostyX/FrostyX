@@ -33,12 +33,10 @@ in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 ---
 
 ![FrostyX's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostyx&show_icons=true&text_bold=false&hide_rank=false&card_width=495&theme=swift)
-
-
-<!-- <img align="right" src="https://media.giphy.com/media/EBId5v0YNRyPGHytLK/giphy.gif"> -->
+<img height="193" src="https://media.giphy.com/media/IE0K3snjKEar8fghVN/giphy.gif"> 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FrostyX&theme=graywhite&background=F7F7F7&border=D0D7DE&fire=F05D44&stroke=D0D7DE)](https://git.io/streak-stats)
-<img height="193" src="https://media.giphy.com/media/IE0K3snjKEar8fghVN/giphy.gif"> 
+
 
 ---
 
@@ -48,7 +46,7 @@ If you like my work, feel free to buy me a coffee.
 
 <a href="https://www.buymeacoffee.com/frostyx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-
+<!-- <img align="right" src="https://media.giphy.com/media/EBId5v0YNRyPGHytLK/giphy.gif"> -->
 <!--
 **FrostyX/FrostyX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
