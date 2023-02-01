@@ -31,12 +31,14 @@ in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 - [cv](https://github.com/FrostyX/cv) - My curriculum vitae
 
 ---
-<img align="right" width="350" src="https://media.giphy.com/media/IE0K3snjKEar8fghVN/giphy.gif"> 
-<!-- <img align="right" src="https://media.giphy.com/media/EBId5v0YNRyPGHytLK/giphy.gif"> -->
 
 ![FrostyX's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostyx&show_icons=true&text_bold=false&hide_rank=false&card_width=495&theme=swift)
 
+
+<!-- <img align="right" src="https://media.giphy.com/media/EBId5v0YNRyPGHytLK/giphy.gif"> -->
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=FrostyX&theme=graywhite&background=F7F7F7&border=D0D7DE&fire=F05D44&stroke=D0D7DE)](https://git.io/streak-stats)
+<img height="193" src="https://media.giphy.com/media/IE0K3snjKEar8fghVN/giphy.gif"> 
 
 ---
 
