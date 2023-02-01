@@ -1,6 +1,34 @@
 I am a computer nerd (read software engineer) way too much interested 
 in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 
+---
+
+### Fedora
+
+- [copr](https://github.com/fedora-copr/copr) - RPM build system
+- [tito](https://github.com/rpm-software-management/tito) - A tool for managing rpm based git projects
+- [fedora-review-service](https://github.com/FrostyX/fedora-review-service) - Fedora package reviews CI
+- [modulemd-tools](https://github.com/rpm-software-management/modulemd-tools) - Collection of tools for parsing and generating modulemd YAML files
+- [fedora-sponsors](https://github.com/FrostyX/fedora-sponsors) - Fedora packager sponsors
+- [rpm-spec-wizard](https://github.com/xsuchy/rpm-spec-wizard) - Online tool, which helps you create RPM Spec file from scratch
+- [fedora-apps](https://github.com/FrostyX/fedora-apps) - Unofficial rewrite of the Fedora Apps page
+- [rpmbuild-topdir](https://github.com/FrostyX/rpmbuild-topdir) - My personal `~/rpmbuild/SPECS/` directory
+
+### Emacs
+
+- [current-window-only](https://github.com/FrostyX/current-window-only) - Open things only in the current window. No other windows, no splits
+- [eyebrowse-restore](https://github.com/FrostyX/eyebrowse-restore) - Never lose your Eyebrowse window configurations again
+- [evil-set-option](https://github.com/FrostyX/evil-set-option) - Provide `:set wrap`, `:set number`, `:set colorcolumn`, and more
+- [helm-dired-open](https://github.com/FrostyX/helm-dired-open) - An 'Open with' dialog for opening files in external applications from Dired
+
+---
+
+![FrostyX's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostyx&show_icons=true&text_bold=false&theme=swift)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FrostyX&theme=graywhite&background=F7F7F7&border=D0D7DE&fire=F05D44&stroke=D0D7DE)](https://git.io/streak-stats)
+
+---
+
+
 If you like my work, feel free to buy me a coffee.
 
 
