@@ -23,7 +23,7 @@ in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 
 ---
 
-![FrostyX's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostyx&show_icons=true&text_bold=false&theme=swift)
+![FrostyX's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostyx&show_icons=true&text_bold=false&card_width=420&theme=swift)
 [![GitHub Streak](https://streak-stats.demolab.com?user=FrostyX&theme=graywhite&background=F7F7F7&border=D0D7DE&fire=F05D44&stroke=D0D7DE)](https://git.io/streak-stats)
 
 ---
