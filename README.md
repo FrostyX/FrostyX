@@ -11,6 +11,7 @@ in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 - [modulemd-tools](https://github.com/rpm-software-management/modulemd-tools) - Collection of tools for parsing and generating modulemd YAML files
 - [fedora-sponsors](https://github.com/FrostyX/fedora-sponsors) - Fedora packager sponsors
 - [rpm-spec-wizard](https://github.com/xsuchy/rpm-spec-wizard) - Online tool, which helps you create RPM Spec file from scratch
+- [tracer](https://github.com/FrostyX/tracer) - Tracer finds outdated running applications in your system
 - [fedora-apps](https://github.com/FrostyX/fedora-apps) - Unofficial rewrite of the Fedora Apps page
 - [rpmbuild-topdir](https://github.com/FrostyX/rpmbuild-topdir) - My personal `~/rpmbuild/SPECS/` directory
 
@@ -20,6 +21,14 @@ in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 - [eyebrowse-restore](https://github.com/FrostyX/eyebrowse-restore) - Never lose your Eyebrowse window configurations again
 - [evil-set-option](https://github.com/FrostyX/evil-set-option) - Provide `:set wrap`, `:set number`, `:set colorcolumn`, and more
 - [helm-dired-open](https://github.com/FrostyX/helm-dired-open) - An 'Open with' dialog for opening files in external applications from Dired
+
+### Other
+
+- [fedora-copr.github.io](https://github.com/fedora-copr/fedora-copr.github.io) - Official Copr Team blog
+- [frostyx.github.io](https://github.com/FrostyX/frostyx.github.io) - My personal blog
+- [dotfiles](https://github.com/FrostyX/dotfiles) - My personal dotfiles
+- [bachelors-thesis](https://github.com/FrostyX/bachelors-thesis) - Bachelor's thesis - tracer - Jakub Kadlčík @ UPOL [CZ]
+- [cv](https://github.com/FrostyX/cv) - My curriculum vitae
 
 ---
 
