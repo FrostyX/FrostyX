@@ -31,7 +31,7 @@ in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 - [cv](https://github.com/FrostyX/cv) - My curriculum vitae
 
 ---
-<img align="right" width="370" src="https://media.giphy.com/media/IE0K3snjKEar8fghVN/giphy.gif"> 
+<img align="right" width="390" src="https://media.giphy.com/media/IE0K3snjKEar8fghVN/giphy.gif"> 
 <!-- <img align="right" src="https://media.giphy.com/media/EBId5v0YNRyPGHytLK/giphy.gif"> -->
 
 ![FrostyX's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostyx&show_icons=true&text_bold=false&hide_rank=false&card_width=495&theme=swift)
