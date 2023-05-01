@@ -12,6 +12,7 @@ in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 - [fedora-sponsors](https://github.com/FrostyX/fedora-sponsors) - Fedora packager sponsors
 - [rpm-spec-wizard](https://github.com/xsuchy/rpm-spec-wizard) - Online tool, which helps you create RPM Spec file from scratch
 - [tracer](https://github.com/FrostyX/tracer) - Tracer finds outdated running applications in your system
+- [cockpit-public-keys](https://github.com/FrostyX/cockpit-public-keys) - Search GitHub users and authorize their SSH keys with just a few clicks
 - [fedora-apps](https://github.com/FrostyX/fedora-apps) - Unofficial rewrite of the Fedora Apps page
 - [rpmbuild-topdir](https://github.com/FrostyX/rpmbuild-topdir) - My personal `~/rpmbuild/SPECS/` directory
 
