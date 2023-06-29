@@ -1,3 +1,10 @@
+<p align="right">
+  <img alt="Fedora" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/fedora/fedora-plain.svg" />
+  <img alt="RedHat" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/redhat/redhat-original.svg" />
+  <img alt="Python" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/python/python-original.svg" />
+  <img alt="Emacs" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/emacs/emacs-original.svg" />
+</p>
+
 I am a computer nerd (read software engineer) way too much interested 
 in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 
