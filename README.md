@@ -30,6 +30,7 @@ in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 - [eyebrowse-restore](https://github.com/FrostyX/eyebrowse-restore) - Never lose your Eyebrowse window configurations again
 - [evil-set-option](https://github.com/FrostyX/evil-set-option) - Provide `:set wrap`, `:set number`, `:set colorcolumn`, and more
 - [helm-dired-open](https://github.com/FrostyX/helm-dired-open) - An 'Open with' dialog for opening files in external applications from Dired
+- [helm-ement](https://github.com/FrostyX/helm-ement) - Helm interface for the Ement matrix client
 
 ### Other
 
