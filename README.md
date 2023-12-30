@@ -28,6 +28,7 @@ in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 
 - [current-window-only](https://github.com/FrostyX/current-window-only) - Open things only in the current window. No other windows, no splits
 - [eyebrowse-restore](https://github.com/FrostyX/eyebrowse-restore) - Never lose your Eyebrowse window configurations again
+- [crontab-for-humans](https://github.com/FrostyX/crontab-for-humans) - Transient interface for crontab
 - [evil-set-option](https://github.com/FrostyX/evil-set-option) - Provide `:set wrap`, `:set number`, `:set colorcolumn`, and more
 - [helm-dired-open](https://github.com/FrostyX/helm-dired-open) - An 'Open with' dialog for opening files in external applications from Dired
 - [helm-ement](https://github.com/FrostyX/helm-ement) - Helm interface for the Ement matrix client
