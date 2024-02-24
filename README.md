@@ -5,7 +5,7 @@
   <img alt="Emacs" width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/emacs/emacs-original.svg" />
 </p>
 
-I am a computer nerd (read software engineer) way too much interested 
+I am a computer nerd (read software engineer) way too much interested
 in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 
 ---
@@ -45,7 +45,7 @@ in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 ---
 
 ![FrostyX's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostyx&show_icons=true&text_bold=false&hide_rank=false&card_width=495&theme=swift)
-<img height="193" src="https://media.giphy.com/media/IE0K3snjKEar8fghVN/giphy.gif"> 
+<img height="193" src="https://media.giphy.com/media/IE0K3snjKEar8fghVN/giphy.gif">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FrostyX&theme=graywhite&background=F7F7F7&border=D0D7DE&fire=F05D44&stroke=D0D7DE)](https://git.io/streak-stats)
 
