@@ -12,3 +12,4 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCbqOtuIYJ34JtX7x_xbdM5Q
+          max_videos: 3
