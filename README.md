@@ -42,6 +42,8 @@ in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 - [frostyx.github.io](https://github.com/FrostyX/frostyx.github.io) - My personal blog
 - [dotfiles](https://github.com/FrostyX/dotfiles) - My personal dotfiles
 - [morsey](https://github.com/FrostyX/morsey) - Encoding and decoding Morse code in Gleam
+- [bummer](https://github.com/FrostyX/bummer) - A Gleam client library for controlling intimate hardware
+- [crooked-rook](https://github.com/FrostyX/crooked-rook) - The missing link between chess engines and intimate hardware 
 - [bachelors-thesis](https://github.com/FrostyX/bachelors-thesis) - Bachelor's thesis - tracer - Jakub Kadlčík @ UPOL [CZ]
 - [cv](https://github.com/FrostyX/cv) - My curriculum vitae
 
