@@ -29,12 +29,13 @@ in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 ### Emacs
 
 - [current-window-only](https://github.com/FrostyX/current-window-only) - Open things only in the current window. No other windows, no splits
-- [eyebrowse-restore](https://github.com/FrostyX/eyebrowse-restore) - Never lose your Eyebrowse window configurations again
-- [crontab-for-humans](https://github.com/FrostyX/crontab-for-humans) - Transient interface for crontab
-- [evil-set-option](https://github.com/FrostyX/evil-set-option) - Provide `:set wrap`, `:set number`, `:set colorcolumn`, and more
 - [dired-open-with](https://github.com/FrostyX/dired-open-with) - An 'Open with' dialog for opening files in external applications from Dired
-- [helm-dired-open](https://github.com/FrostyX/helm-dired-open) - An 'Open with' dialog for opening files in external applications from Dired
+- [eyebrowse-restore](https://github.com/FrostyX/eyebrowse-restore) - Never lose your Eyebrowse window configurations again
+- [tramp-menu](https://github.com/FrostyX/tramp-menu) - Connect to SSH quickly and effortlessly 
+- [evil-set-option](https://github.com/FrostyX/evil-set-option) - Provide `:set wrap`, `:set number`, `:set colorcolumn`, and more
 - [helm-ement](https://github.com/FrostyX/helm-ement) - Helm interface for the Ement matrix client
+- [helm-dired-open](https://github.com/FrostyX/helm-dired-open) - Please use [dired-open-with](https://github.com/FrostyX/dired-open-with) instead
+- [crontab-for-humans](https://github.com/FrostyX/crontab-for-humans) - Transient interface for crontab
 
 ### Other
 
