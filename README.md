@@ -19,6 +19,7 @@ in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 - [fedora-sponsors](https://github.com/FrostyX/fedora-sponsors) - Fedora packager sponsors
 - [fedora-distro-aliases](https://github.com/rpm-software-management/fedora-distro-aliases) - Aliases for active Fedora releases
 - [ulauncher-copr](https://github.com/FrostyX/ulauncher-copr) - An Ulauncher extension to open Copr projects in the web browser.
+- [logdetective](https://github.com/fedora-copr/logdetective) - Analyze logs using Language Model (LLM) and Drain template miner. 
 - [log-detective-website](https://github.com/fedora-copr/log-detective-website) - Data collection page for Log Detective AI
 - [rpm-spec-wizard](https://github.com/xsuchy/rpm-spec-wizard) - Online tool, which helps you create RPM Spec file from scratch
 - [tracer](https://github.com/FrostyX/tracer) - Tracer finds outdated running applications in your system
