@@ -29,6 +29,7 @@ in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 
 ### Emacs
 
+- [thanks](https://github.com/FrostyX/thanks) - Say thanks to the authors of all your installed packages
 - [current-window-only](https://github.com/FrostyX/current-window-only) - Open things only in the current window. No other windows, no splits
 - [dired-open-with](https://github.com/FrostyX/dired-open-with) - An 'Open with' dialog for opening files in external applications from Dired
 - [eyebrowse-restore](https://github.com/FrostyX/eyebrowse-restore) - Never lose your Eyebrowse window configurations again
