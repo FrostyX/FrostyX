@@ -19,7 +19,7 @@ in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 - [fedora-sponsors](https://github.com/FrostyX/fedora-sponsors) - Fedora packager sponsors
 - [fedora-distro-aliases](https://github.com/rpm-software-management/fedora-distro-aliases) - Aliases for active Fedora releases
 - [ulauncher-copr](https://github.com/FrostyX/ulauncher-copr) - An Ulauncher extension to open Copr projects in the web browser.
-- [logdetective](https://github.com/fedora-copr/logdetective) - Analyze logs using Language Model (LLM) and Drain template miner. 
+- [logdetective](https://github.com/fedora-copr/logdetective) - Analyze logs using Language Model (LLM) and Drain template miner.
 - [log-detective-website](https://github.com/fedora-copr/log-detective-website) - Data collection page for Log Detective AI
 - [rpm-spec-wizard](https://github.com/xsuchy/rpm-spec-wizard) - Online tool, which helps you create RPM Spec file from scratch
 - [tracer](https://github.com/FrostyX/tracer) - Tracer finds outdated running applications in your system
@@ -33,7 +33,7 @@ in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 - [current-window-only](https://github.com/FrostyX/current-window-only) - Open things only in the current window. No other windows, no splits
 - [dired-open-with](https://github.com/FrostyX/dired-open-with) - An 'Open with' dialog for opening files in external applications from Dired
 - [eyebrowse-restore](https://github.com/FrostyX/eyebrowse-restore) - Never lose your Eyebrowse window configurations again
-- [tramp-menu](https://github.com/FrostyX/tramp-menu) - Connect to SSH quickly and effortlessly 
+- [tramp-menu](https://github.com/FrostyX/tramp-menu) - Connect to SSH quickly and effortlessly
 - [evil-set-option](https://github.com/FrostyX/evil-set-option) - Provide `:set wrap`, `:set number`, `:set colorcolumn`, and more
 - [helm-ement](https://github.com/FrostyX/helm-ement) - Helm interface for the Ement matrix client
 - [helm-dired-open](https://github.com/FrostyX/helm-dired-open) - Please use [dired-open-with](https://github.com/FrostyX/dired-open-with) instead
@@ -47,7 +47,7 @@ in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 - [waifu](https://github.com/FrostyX/waifu) - Start your day with a gentle reminder what work needs to be done
 - [morsey](https://github.com/FrostyX/morsey) - Encoding and decoding Morse code in Gleam
 - [bummer](https://github.com/FrostyX/bummer) - A Gleam client library for controlling intimate hardware
-- [crooked-rook](https://github.com/FrostyX/crooked-rook) - The missing link between chess engines and intimate hardware 
+- [crooked-rook](https://github.com/FrostyX/crooked-rook) - The missing link between chess engines and intimate hardware
 - [bachelors-thesis](https://github.com/FrostyX/bachelors-thesis) - Bachelor's thesis - tracer - Jakub Kadlčík @ UPOL [CZ]
 - [cv](https://github.com/FrostyX/cv) - My curriculum vitae
 
