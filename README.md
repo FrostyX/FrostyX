@@ -13,6 +13,7 @@ in Emacs, RPM packaging ecosystem, and Free software (as in freedom) in general.
 ### Fedora
 
 - [copr](https://github.com/fedora-copr/copr) - RPM build system
+- [copr-mcp](https://github.com/fedora-copr/copr-mcp) - MCP server for Copr
 - [tito](https://github.com/rpm-software-management/tito) - A tool for managing rpm based git projects
 - [fedora-review-service](https://github.com/FrostyX/fedora-review-service) - Fedora package reviews CI
 - [modulemd-tools](https://github.com/rpm-software-management/modulemd-tools) - Collection of tools for parsing and generating modulemd YAML files
